@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){let d=docker.value.split('\n').length;res.innerText=`Docker steps: ${d}`;}

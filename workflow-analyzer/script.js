@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){let w=workflow.value.split('\n').length;res.innerText=`Workflow steps: ${w}`;}
